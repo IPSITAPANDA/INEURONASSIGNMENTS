@@ -1,2 +1,2 @@
-# INEURONASSIGNMENTS
+# IneuronAssignments
 For Assignments
